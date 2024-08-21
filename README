@@ -1,13 +1,14 @@
 
-Activity: Reflecting on Coding Paradigms
+#Activity: Reflecting on Coding Paradigms
 In this activity, we will get a chance to express what we've learned so far in regards to the paradigms of Functional and Object-Oriented Programming in Python. The activity will be completed in a few distinct stages. The first step will consist of implementing a solution to a problem for each coding style. Once a solution that adheres to the coding paradigm has been implemented, there are several questions to answer. These questions pertain to how and why the coding paradigm in question helps us solve the problem. When answering these questions, it may be helpful to envision an interview setting. The final part of the activity consists of a writing prompt to reflect on the past two modules, and your personal impressions of them.
 
-Getting Started
+##Getting Started
 Create a Replit named Reflecting on Coding Paradigms using the Python template.
 Do your work and write your answers for the following prompts in the generated main.py file.
 For the thought prompts, write your answers as comments.
 As you work through the prompts, be sure to add comments titling what section each solution is for.
-Functional Prompt
+
+##Functional Prompt
 Implement a function that will flatten and sort an array of integers in ascending order, and which adheres to a functional programming paradigm.
 
 Remember, when writing in a functional style:
@@ -20,7 +21,8 @@ Is this solution a pure function? Why or why not?
 Is this solution a higher order function? Why or why not?
 Would it have been easier to solve this problem using a different programming style?
 Why in particular is functional programming a helpful paradigm when solving this problem?
-Object Oriented Prompt
+
+##Object Oriented Prompt
 Watto needs a new system for organizing his inventory of podracers. Help him do this by implementing an Object Oriented solution according to the following criteria.
 
 First, he'll need a general Podracer class defined with max_speed, condition (perfect, trashed, repaired) and price attributes.
@@ -35,17 +37,19 @@ Inheritance
 Polymorphism
 Would it have been easier to implement a solution to this problem using a different coding style? Why or why not?
 How in particular did Object Oriented Programming assist in the solving of this problem?
-Reflection
+
+##Reflection
 Take some time now to think about the lessons we've just covered. Prompting questions have been provided, but reflections do not need to be limited to only their answers.
 
 Is one of these coding paradigms "better" than the other? Why or why not?
 Given the opportunity to work predominantly using either of these coding paradigms, which seems more appealing? Why?
 Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
 Personally, which of these styles takes more work to understand? What should be done in order to deepen understanding related to this paradigm?
-Solution
+
+##Solution
 Use this link if you get stuck or need to check your work.
 
-Acceptance Criteria
+##Acceptance Criteria
 When scrolling through your Replit, it should be easy to tell what section your solutions belong to with commented titles.
 When running your Replit, there should be no errors displayed in the console.
 If there are errors you could not solve, comment out the lines throwing errors and explain what steps you used to try and fix them.
