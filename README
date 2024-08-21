@@ -1,14 +1,14 @@
 
-#Activity: Reflecting on Coding Paradigms
+# Activity: Reflecting on Coding Paradigms
 In this activity, we will get a chance to express what we've learned so far in regards to the paradigms of Functional and Object-Oriented Programming in Python. The activity will be completed in a few distinct stages. The first step will consist of implementing a solution to a problem for each coding style. Once a solution that adheres to the coding paradigm has been implemented, there are several questions to answer. These questions pertain to how and why the coding paradigm in question helps us solve the problem. When answering these questions, it may be helpful to envision an interview setting. The final part of the activity consists of a writing prompt to reflect on the past two modules, and your personal impressions of them.
 
-##Getting Started
+## Getting Started
 Create a Replit named Reflecting on Coding Paradigms using the Python template.
 Do your work and write your answers for the following prompts in the generated main.py file.
 For the thought prompts, write your answers as comments.
 As you work through the prompts, be sure to add comments titling what section each solution is for.
 
-##Functional Prompt
+## Functional Prompt
 Implement a function that will flatten and sort an array of integers in ascending order, and which adheres to a functional programming paradigm.
 
 Remember, when writing in a functional style:
