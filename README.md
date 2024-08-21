@@ -22,7 +22,7 @@ Is this solution a higher order function? Why or why not?
 Would it have been easier to solve this problem using a different programming style?
 Why in particular is functional programming a helpful paradigm when solving this problem?
 
-##Object Oriented Prompt
+## Object Oriented Prompt
 Watto needs a new system for organizing his inventory of podracers. Help him do this by implementing an Object Oriented solution according to the following criteria.
 
 First, he'll need a general Podracer class defined with max_speed, condition (perfect, trashed, repaired) and price attributes.
@@ -38,7 +38,7 @@ Polymorphism
 Would it have been easier to implement a solution to this problem using a different coding style? Why or why not?
 How in particular did Object Oriented Programming assist in the solving of this problem?
 
-##Reflection
+## Reflection
 Take some time now to think about the lessons we've just covered. Prompting questions have been provided, but reflections do not need to be limited to only their answers.
 
 Is one of these coding paradigms "better" than the other? Why or why not?
@@ -46,10 +46,10 @@ Given the opportunity to work predominantly using either of these coding paradig
 Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
 Personally, which of these styles takes more work to understand? What should be done in order to deepen understanding related to this paradigm?
 
-##Solution
+## Solution
 Use this link if you get stuck or need to check your work.
 
-##Acceptance Criteria
+## Acceptance Criteria
 When scrolling through your Replit, it should be easy to tell what section your solutions belong to with commented titles.
 When running your Replit, there should be no errors displayed in the console.
 If there are errors you could not solve, comment out the lines throwing errors and explain what steps you used to try and fix them.
